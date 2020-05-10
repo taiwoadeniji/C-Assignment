@@ -26,7 +26,7 @@ namespace C_Assignment
 
             if ( !File.Exists( filename ) ) 
             {
-               Console.WriteLine( "This filename name does not exist!! Enter option 1 to choose another filename." );
+               Console.WriteLine( "This filename name does not exist!!! Enter option 1 to choose another filename." );
             }
 
             break;
@@ -46,7 +46,7 @@ namespace C_Assignment
               }
               File.WriteAllText( filename, showText );
             } else {
-               Console.WriteLine(  "This filename name does not exist!!!! Enter option 1 to choose another filename.");
+               Console.WriteLine(  "This filename name does not exist!!! Enter option 1 to choose another filename.");
             }
             break;
           case "3":
@@ -59,7 +59,7 @@ namespace C_Assignment
            Console.WriteLine("Enter an Option:");
            Console.WriteLine("Enter Option 1 to input filename.");
            Console.WriteLine("Enter Option 2 to input the string to be modified.");
-            Console.WriteLine("Enter Option 3 to terminate the program.");;
+            Console.WriteLine("Enter Option 3 to terminate the program.");
             break;
         }
       }
