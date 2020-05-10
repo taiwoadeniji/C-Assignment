@@ -26,7 +26,7 @@ namespace C_Assignment
 
             if ( !File.Exists( filename ) ) 
             {
-               Console.WriteLine( "This filename name does not exist!!!! Enter option 1 to choose another filename." );
+               Console.WriteLine( "This filename name does not exist!! Enter option 1 to choose another filename." );
             }
 
             break;
