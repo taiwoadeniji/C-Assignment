@@ -1,0 +1,13 @@
+C:\Users\neaky\OneDrive\Desktop\C# Assignment\bin\Debug\netcoreapp3.1\C# Assignment.exe
+C:\Users\neaky\OneDrive\Desktop\C# Assignment\bin\Debug\netcoreapp3.1\C# Assignment.deps.json
+C:\Users\neaky\OneDrive\Desktop\C# Assignment\bin\Debug\netcoreapp3.1\C# Assignment.runtimeconfig.json
+C:\Users\neaky\OneDrive\Desktop\C# Assignment\bin\Debug\netcoreapp3.1\C# Assignment.runtimeconfig.dev.json
+C:\Users\neaky\OneDrive\Desktop\C# Assignment\bin\Debug\netcoreapp3.1\C# Assignment.dll
+C:\Users\neaky\OneDrive\Desktop\C# Assignment\bin\Debug\netcoreapp3.1\C# Assignment.pdb
+C:\Users\neaky\OneDrive\Desktop\C# Assignment\obj\Debug\netcoreapp3.1\C# Assignment.csprojAssemblyReference.cache
+C:\Users\neaky\OneDrive\Desktop\C# Assignment\obj\Debug\netcoreapp3.1\C# Assignment.csproj.CoreCompileInputs.cache
+C:\Users\neaky\OneDrive\Desktop\C# Assignment\obj\Debug\netcoreapp3.1\C# Assignment.AssemblyInfoInputs.cache
+C:\Users\neaky\OneDrive\Desktop\C# Assignment\obj\Debug\netcoreapp3.1\C# Assignment.AssemblyInfo.cs
+C:\Users\neaky\OneDrive\Desktop\C# Assignment\obj\Debug\netcoreapp3.1\C# Assignment.dll
+C:\Users\neaky\OneDrive\Desktop\C# Assignment\obj\Debug\netcoreapp3.1\C# Assignment.pdb
+C:\Users\neaky\OneDrive\Desktop\C# Assignment\obj\Debug\netcoreapp3.1\C# Assignment.genruntimeconfig.cache
